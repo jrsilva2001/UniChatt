@@ -1,0 +1,15 @@
+{
+  "name": "unichat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "UniChat - centralização interna de conhecimento corporativo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node scripts/smoke-test.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

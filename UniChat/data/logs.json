@@ -1,0 +1,94 @@
+[
+  {
+    "id": "1752f638-1ca8-4331-aaf9-5fd2066e22e5",
+    "userId": "u-admin",
+    "userName": "Administrador UniChat",
+    "userEmail": "admin@unimeduberlandia.coop.br",
+    "userRole": "admin",
+    "userSector": "Governança",
+    "question": "Como configurar MAC address do notebook corporativo?",
+    "answer": "Não encontrei informação suficiente na base oficial ativa para responder com segurança. Recomendo acionar o setor responsável ou solicitar que o documento oficial seja cadastrado na base.",
+    "confidence": "baixa",
+    "citations": [],
+    "rating": null,
+    "createdAt": "2026-08-20T20:57:48.891Z"
+  },
+  {
+    "id": "037a82ef-ce45-456b-883f-5d059bf6a8d6",
+    "userId": "u-admin",
+    "userName": "Administrador UniChat",
+    "userEmail": "admin@unimeduberlandia.coop.br",
+    "userRole": "admin",
+    "userSector": "Governança",
+    "question": "Qual setor acionar sobre LGPD e dados sensiveis?",
+    "answer": "Com base no documento oficial \"Política Interna de Privacidade e LGPD\", a orientação encontrada é: A consulta a informações corporativas deve ocorrer somente em bases internas autorizadas. Dados pessoais e dados sensíveis de pacientes, clientes, cooperados e colaboradores não devem ser compartilhados em ferramentas externas não homologadas. Setor responsável: Governança. Use esta resposta como referência institucional rastreável. Se o caso envolver exceção, decisão técnica ou dado sensível, acione o setor responsável informado.",
+    "confidence": "alta",
+    "citations": [
+      {
+        "documentId": "doc-politica-lgpd",
+        "title": "Política Interna de Privacidade e LGPD",
+        "fileName": "politica-lgpd.txt",
+        "sector": "Governança",
+        "category": "Compliance",
+        "version": "1.0"
+      },
+      {
+        "documentId": "doc-politica-lgpd",
+        "title": "Política Interna de Privacidade e LGPD",
+        "fileName": "politica-lgpd.txt",
+        "sector": "Governança",
+        "category": "Compliance",
+        "version": "1.0"
+      }
+    ],
+    "rating": "positive",
+    "createdAt": "2026-08-20T20:57:48.888Z",
+    "ratedAt": "2026-08-20T20:57:48.892Z"
+  },
+  {
+    "id": "a2337521-0593-4edd-b69f-37f4de69eddc",
+    "userId": "u-admin",
+    "userName": "Administrador UniChat",
+    "userEmail": "admin@unimeduberlandia.coop.br",
+    "userRole": "admin",
+    "userSector": "Governança",
+    "question": "Como configurar MAC address do notebook corporativo?",
+    "answer": "Não encontrei informação suficiente na base oficial ativa para responder com segurança. Recomendo acionar o setor responsável ou solicitar que o documento oficial seja cadastrado na base.",
+    "confidence": "baixa",
+    "citations": [],
+    "rating": null,
+    "createdAt": "2026-08-20T20:56:40.171Z"
+  },
+  {
+    "id": "10807352-4394-48a5-b746-4d4480ea0b92",
+    "userId": "u-admin",
+    "userName": "Administrador UniChat",
+    "userEmail": "admin@unimeduberlandia.coop.br",
+    "userRole": "admin",
+    "userSector": "Governança",
+    "question": "Qual setor acionar sobre LGPD e dados sensiveis?",
+    "answer": "Com base no documento oficial \"Política Interna de Privacidade e LGPD\", a orientação encontrada é: A consulta a informações corporativas deve ocorrer somente em bases internas autorizadas. Dados pessoais e dados sensíveis de pacientes, clientes, cooperados e colaboradores não devem ser compartilhados em ferramentas externas não homologadas. Setor responsável: Governança. Use esta resposta como referência institucional rastreável. Se o caso envolver exceção, decisão técnica ou dado sensível, acione o setor responsável informado.",
+    "confidence": "alta",
+    "citations": [
+      {
+        "documentId": "doc-politica-lgpd",
+        "title": "Política Interna de Privacidade e LGPD",
+        "fileName": "politica-lgpd.txt",
+        "sector": "Governança",
+        "category": "Compliance",
+        "version": "1.0"
+      },
+      {
+        "documentId": "doc-politica-lgpd",
+        "title": "Política Interna de Privacidade e LGPD",
+        "fileName": "politica-lgpd.txt",
+        "sector": "Governança",
+        "category": "Compliance",
+        "version": "1.0"
+      }
+    ],
+    "rating": "positive",
+    "createdAt": "2026-08-20T20:56:40.168Z",
+    "ratedAt": "2026-08-20T20:56:40.173Z"
+  }
+]

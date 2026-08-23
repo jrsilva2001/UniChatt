@@ -1,0 +1,38 @@
+[
+  {
+    "id": "u-admin",
+    "name": "Administrador UniChat",
+    "email": "admin@unimeduberlandia.coop.br",
+    "role": "admin",
+    "sector": "Governança",
+    "active": true,
+    "passwordSalt": "5ddc5ac4f98bba6ce151b9462f03f7b4",
+    "passwordHash": "eaa92bc5c3ffcfc209233394791aef9676b4686b675a44226d33ae9586f6930e3da189bcbb50d53f3386a025e3ea918ffab8b5dcb1cfa27a144b913d7581c1e3",
+    "createdAt": "2026-05-03T01:03:01.879Z",
+    "updatedAt": "2026-05-03T02:07:39.832Z"
+  },
+  {
+    "id": "u-gestor",
+    "name": "Gestor Atendimento",
+    "email": "gestor@unimeduberlandia.coop.br",
+    "role": "gestor",
+    "sector": "Atendimento",
+    "active": true,
+    "passwordSalt": "377d8b4624854c0b76bbbdef5b829a4d",
+    "passwordHash": "c5e426968469c986d76133f2c72208c70f421d51a17f824517ea421d9692af59ce44f2d461e7eeca9a76ef37b5cc3c3403718307871322e1f83ebd8542878e9a",
+    "createdAt": "2026-05-03T01:03:01.989Z",
+    "updatedAt": "2026-05-03T02:07:39.833Z"
+  },
+  {
+    "id": "u-colab",
+    "name": "Colaborador Atendimento",
+    "email": "colaborador@unimeduberlandia.coop.br",
+    "role": "colaborador",
+    "sector": "Atendimento",
+    "active": true,
+    "passwordSalt": "ecf2e87147a270824f22688b950953d5",
+    "passwordHash": "7d11e34b8bfd093c0cc0ffa85c1f75dd2600ea8fac6c2223b57912cee5868b492ba45628e4adf925ce2cbde28dee70c3e70a8a8ca42e0d1078e03ad5f212cdbd",
+    "createdAt": "2026-05-03T01:03:02.088Z",
+    "updatedAt": "2026-05-03T02:07:39.833Z"
+  }
+]

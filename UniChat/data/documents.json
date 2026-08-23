@@ -1,0 +1,41 @@
+[
+  {
+    "id": "doc-politica-lgpd",
+    "title": "Política Interna de Privacidade e LGPD",
+    "fileName": "politica-lgpd.txt",
+    "sector": "Governança",
+    "category": "Compliance",
+    "version": "1.0",
+    "status": "active",
+    "createdAt": "2026-05-03T01:03:02.088Z",
+    "updatedAt": "2026-05-03T01:03:02.088Z",
+    "ownerUserId": "u-admin",
+    "content": "A consulta a informações corporativas deve ocorrer somente em bases internas autorizadas. Dados pessoais e dados sensíveis de pacientes, clientes, cooperados e colaboradores não devem ser compartilhados em ferramentas externas não homologadas. Em caso de dúvida sobre tratamento de dados, o setor responsável é Governança. Toda consulta deve preservar finalidade, necessidade, confidencialidade e rastreabilidade. Incidentes ou suspeitas de exposição indevida devem ser encaminhados imediatamente para Governança."
+  },
+  {
+    "id": "doc-atendimento-prazos",
+    "title": "Procedimento de Atendimento - Prazos e Escalonamento",
+    "fileName": "procedimento-atendimento.txt",
+    "sector": "Atendimento",
+    "category": "Operacional",
+    "version": "1.0",
+    "status": "active",
+    "createdAt": "2026-05-03T01:03:02.088Z",
+    "updatedAt": "2026-05-03T01:03:02.088Z",
+    "ownerUserId": "u-admin",
+    "content": "Solicitações de beneficiários devem ser registradas no sistema corporativo de atendimento com classificação do tema, prioridade e responsável. Demandas simples devem ser respondidas com base nos documentos oficiais vigentes. Quando a resposta depender de decisão técnica ou exceção operacional, o colaborador deve acionar o gestor do Atendimento. Consultas repetitivas devem ser direcionadas para a base oficial para padronizar a resposta."
+  },
+  {
+    "id": "doc-autorizacao",
+    "title": "Orientação de Autorização de Procedimentos",
+    "fileName": "autorizacao-procedimentos.txt",
+    "sector": "Autorizações",
+    "category": "Saúde",
+    "version": "1.0",
+    "status": "active",
+    "createdAt": "2026-05-03T01:03:02.088Z",
+    "updatedAt": "2026-05-03T01:03:02.088Z",
+    "ownerUserId": "u-admin",
+    "content": "Pedidos de autorização devem ser analisados conforme cobertura contratual, documentação apresentada e regras internas vigentes. O colaborador deve consultar a base oficial antes de orientar o beneficiário. Se houver divergência entre documentos, prevalece a versão ativa mais recente cadastrada pelo setor responsável. Casos clínicos sensíveis devem ser tratados com confidencialidade e encaminhados ao setor de Autorizações."
+  }
+]
